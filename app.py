@@ -3,7 +3,7 @@ from dash import Dash, html, dcc
 import pandas as pd
 
 
-df = pd.read_excel("data.xlsx")
+df = pd.read_excel("data/data.xlsx")
 
 
 columnDefs = [
