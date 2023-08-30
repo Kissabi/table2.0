@@ -39,5 +39,4 @@ swal({
 
 Access the URL http://localhost:5000 to view the interactive table with images.
 
-Contribution
 Contributions are welcome! If you have suggestions, improvements, or corrections, feel free to submit a pull request or open an issue.
