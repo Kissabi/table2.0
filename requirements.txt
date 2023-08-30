@@ -1,0 +1,3 @@
+dash >= 2.9.1
+dash-ag-grid >= 2.2.0
+pandas >= 1.4.4
